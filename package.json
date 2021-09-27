@@ -1,7 +1,7 @@
 {
 	"name": "karate-classpath-jar",
-	"displayName": "karate-classpath-jar",
-	"description": "Provides karate 'fat' jar for KarateIDE classpath",
+	"displayName": "KarateIDE Classpath Jar",
+	"description": "Provides karate.jar for KarateIDE vscode extension",
     "icon": "resources/karate.png",
     "version": "1.1.0",
     "license": "MIT",
